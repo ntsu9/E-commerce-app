@@ -1,0 +1,16 @@
+C:\Users\Steven\OneDrive\Desktop\Github\E-commerce-app\skinet\Infratructure\bin\Debug\net8.0\Infratructure.deps.json
+C:\Users\Steven\OneDrive\Desktop\Github\E-commerce-app\skinet\Infratructure\bin\Debug\net8.0\Infratructure.dll
+C:\Users\Steven\OneDrive\Desktop\Github\E-commerce-app\skinet\Infratructure\bin\Debug\net8.0\Infratructure.pdb
+C:\Users\Steven\OneDrive\Desktop\Github\E-commerce-app\skinet\Infratructure\bin\Debug\net8.0\Core.dll
+C:\Users\Steven\OneDrive\Desktop\Github\E-commerce-app\skinet\Infratructure\bin\Debug\net8.0\Core.pdb
+C:\Users\Steven\OneDrive\Desktop\Github\E-commerce-app\skinet\Infratructure\obj\Debug\net8.0\Infratructure.csproj.AssemblyReference.cache
+C:\Users\Steven\OneDrive\Desktop\Github\E-commerce-app\skinet\Infratructure\obj\Debug\net8.0\Infratructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steven\OneDrive\Desktop\Github\E-commerce-app\skinet\Infratructure\obj\Debug\net8.0\Infratructure.AssemblyInfoInputs.cache
+C:\Users\Steven\OneDrive\Desktop\Github\E-commerce-app\skinet\Infratructure\obj\Debug\net8.0\Infratructure.AssemblyInfo.cs
+C:\Users\Steven\OneDrive\Desktop\Github\E-commerce-app\skinet\Infratructure\obj\Debug\net8.0\Infratructure.csproj.CoreCompileInputs.cache
+C:\Users\Steven\OneDrive\Desktop\Github\E-commerce-app\skinet\Infratructure\obj\Debug\net8.0\Infratructure.sourcelink.json
+C:\Users\Steven\OneDrive\Desktop\Github\E-commerce-app\skinet\Infratructure\obj\Debug\net8.0\Infratru.4D9A8053.Up2Date
+C:\Users\Steven\OneDrive\Desktop\Github\E-commerce-app\skinet\Infratructure\obj\Debug\net8.0\Infratructure.dll
+C:\Users\Steven\OneDrive\Desktop\Github\E-commerce-app\skinet\Infratructure\obj\Debug\net8.0\refint\Infratructure.dll
+C:\Users\Steven\OneDrive\Desktop\Github\E-commerce-app\skinet\Infratructure\obj\Debug\net8.0\Infratructure.pdb
+C:\Users\Steven\OneDrive\Desktop\Github\E-commerce-app\skinet\Infratructure\obj\Debug\net8.0\ref\Infratructure.dll
